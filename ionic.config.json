@@ -1,0 +1,7 @@
+{
+  "name": "toDoappionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
